@@ -1,0 +1,16 @@
+- name: Dr. Srujan Kotikela
+  photo: Kotikela.jpg
+  info: Assistant Professor of Cybersecurity and AI Computer Science & Information Systems, started Jan 2021
+  email: Srujan.Kotikela@tamuc.edu
+  number_educ: 3
+  education1: PhD in Computer Science, 2018, <a href="https://www.unt.edu/">University of North Texas</a>
+  education2: MS in Computer Science, 2014, <a href="https://www.unt.edu/">University of North Texas</a>
+  education3: USA BTech in Computer Science and Engineering, 2008, <a href="https://jntuh.ac.in/">Jawaharlal Nehru Technological University</a>
+
+- name: Tyler Harrison
+  photo: Tyler.jpg
+  info: Artificial Intelligence Team Leader, started Jan 2021
+  email: tyleraharrison@gmail.com
+  number_educ: 2
+  education1: Associate in Science in Computer Information Systems,<a href="https://www.blinn.edu/rellis/index.html"> Blinn College @ RELLIS</a>
+  education2: <a href="https://www.firstinspires.org/">FIRST Robotics </a> Alumni, Lead Programmer/Software Engineer, currently a mentor for Team 4328
