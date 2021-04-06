@@ -11,8 +11,8 @@ email: gjones13@leomail.tamuc.edu
 # description: > # this means to ignore newlines until "baseurl:"
 # Website to display research from SPAIRL - .  This research group is under the
 # direction of Dr. Srujan Kotikela and focuses on solutions to decentralized identity.
-baseurl: "https://spairl.github.io"
-url: "https://spairl.github.io"
+baseurl: ""
+url: ""
 
 webrick:
   headers:
